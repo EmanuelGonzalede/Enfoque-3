@@ -1,6 +1,0 @@
-I: Información.
-A: Acción.
-Q: Pregunta.
-D: Decisión. 
-S: Apoyo. 
-T: Tarea.
